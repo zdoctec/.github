@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./marca_zdoc_simp.svg" alt="Zdoc Tecnologia Banner" />
+  <img src="./zdoc___tecnologia_em_gest_o_documental_cover.jpeg" alt="Zdoc Tecnologia Banner" />
 </p>
 <h1 align="center">Zdoc Tecnologia - Escritório</h1>
 
